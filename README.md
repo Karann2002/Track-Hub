@@ -1,5 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/783d4f3b-925d-44cf-aaf8-4ee4035b2f6c)
 
 ### Make sure to create a `.env` file with following variables -
 

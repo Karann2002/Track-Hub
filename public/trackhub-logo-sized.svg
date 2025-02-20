@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="60" viewBox="0 0 300 60">
+  <!-- T -->
+  <rect x="0" y="0" width="35" height="35" rx="5" fill="#6B79B5"/>
+  <text x="10" y="27" font-family="Arial" font-size="25" fill="white">T</text>
+  
+  <!-- R -->
+  <rect x="37" y="0" width="35" height="35" rx="5" fill="#6B79B5"/>
+  <text x="47" y="27" font-family="Arial" font-size="25" fill="white">R</text>
+  
+  <!-- A -->
+  <rect x="74" y="0" width="35" height="35" rx="5" fill="#6B79B5"/>
+  <text x="84" y="27" font-family="Arial" font-size="25" fill="white">A</text>
+  
+  <!-- C -->
+  <rect x="111" y="0" width="35" height="35" rx="5" fill="#6B79B5"/>
+  <text x="121" y="27" font-family="Arial" font-size="25" fill="white">C</text>
+  
+  <!-- K -->
+  <rect x="148" y="0" width="35" height="35" rx="5" fill="#6B79B5"/>
+  <text x="158" y="27" font-family="Arial" font-size="25" fill="white">K</text>
+  
+  <!-- H -->
+  <rect x="185" y="0" width="35" height="35" rx="5" fill="#6B79B5"/>
+  <text x="195" y="27" font-family="Arial" font-size="25" fill="white">H</text>
+  
+  <!-- U -->
+  <rect x="222" y="0" width="35" height="35" rx="5" fill="#6B79B5"/>
+  <text x="232" y="27" font-family="Arial" font-size="25" fill="white">U</text>
+  
+  <!-- B -->
+  <rect x="259" y="0" width="35" height="35" rx="5" fill="#6B79B5"/>
+  <text x="269" y="27" font-family="Arial" font-size="25" fill="white">B</text>
+</svg>

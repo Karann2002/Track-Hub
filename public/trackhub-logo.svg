@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160">
+  <!-- T -->
+  <rect x="0" y="0" width="140" height="140" rx="20" fill="#6B79B5"/>
+  <text x="40" y="110" font-family="Arial" font-size="100" fill="white">T</text>
+  
+  <!-- R -->
+  <rect x="150" y="0" width="140" height="140" rx="20" fill="#6B79B5"/>
+  <text x="190" y="110" font-family="Arial" font-size="100" fill="white">R</text>
+  
+  <!-- A -->
+  <rect x="300" y="0" width="140" height="140" rx="20" fill="#6B79B5"/>
+  <text x="340" y="110" font-family="Arial" font-size="100" fill="white">A</text>
+  
+  <!-- C -->
+  <rect x="450" y="0" width="140" height="140" rx="20" fill="#6B79B5"/>
+  <text x="490" y="110" font-family="Arial" font-size="100" fill="white">C</text>
+  
+  <!-- K -->
+  <rect x="600" y="0" width="140" height="140" rx="20" fill="#6B79B5"/>
+  <text x="640" y="110" font-family="Arial" font-size="100" fill="white">K</text>
+  
+  <!-- H -->
+  <rect x="750" y="0" width="140" height="140" rx="20" fill="#6B79B5"/>
+  <text x="790" y="110" font-family="Arial" font-size="100" fill="white">H</text>
+  
+  <!-- U -->
+  <rect x="900" y="0" width="140" height="140" rx="20" fill="#6B79B5"/>
+  <text x="940" y="110" font-family="Arial" font-size="100" fill="white">U</text>
+  
+  <!-- B -->
+  <rect x="1050" y="0" width="140" height="140" rx="20" fill="#6B79B5"/>
+  <text x="1090" y="110" font-family="Arial" font-size="100" fill="white">B</text>
+</svg>
